@@ -1,0 +1,60 @@
+In this practice Project we build basic CRUD Application using node js and its
+Framework Express.
+
+
+Task #1
+
+What is node Js?
+what is Express Js?
+package.json?
+package-lock.json?
+Dependency?
+Very First Step to create Node js project?
+
+Task #2
+
+Step By step To start Node js project
+
+Folder Structure (MVC)
+Run Your Server
+dotenv file
+DataBase Connectivity
+Best Practice
+
+Task #3
+
+-> CRUD Operation   
+   create
+
+With DataBase Connectivity 
+
+Demand
+Product Create,Update, Delete,get
+//Product Field
+
+productName,
+productDescription,
+Price,
+inStock,
+Date
+
+
+Step1 
+Create Model
+
+Task #4
+-> GET API 
+-> req.Params
+-> req.query
+-> Get All Products
+-> Get specific Product
+
+
+Task #5
+-> update and  Delete API
+
+
+
+
+
+
